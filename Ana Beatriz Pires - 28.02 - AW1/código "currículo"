@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+</head> 
+
+<body>
+<header style="background-color: rgba(29, 139, 139, 0.781); height: 200px;">
+    <div style="content: padding: auto;">
+    <img style="margin-top: 30px; margin-left: 125px;"
+    src = "https://meusanimais.com.br/wp-content/uploads/2019/02/capivara-na-grama.jpg" width="250" height="150" alt="erro" 
+    />
+        <div style = "display: inline; margin-left: 35px; position: relative; bottom: 110px; font-size: 40px;"> André Ramiréz</div>
+        <div style = "margin-left: 415px; position: relative; bottom: 115px; font-size: 20px; margin-top: 25px;"> Comedor de pé</div>
+        <div style = "margin-left: 415px; margin-right: 150px; position: relative; bottom: 120px; font-size: 15px; margin-top: 20px;"> Profissional na área de degustação pézal Profissional na área de degustação pézal Profissional na área de degustação pézal Profissional na área de degustação pézal Profissional na área de degustação pézal </div>
+    </div>
+</header>
+
+<main style="background-color: rgb(141, 194, 194); height: 550px;">
+    <div>
+        <div style="font-size: 30px; margin-left: 125px;"> <br>Formação</div>
+        <ul style="font-size: 20px; margin-left: 125px;">
+            <li>
+                Se formou na lagoa do horto florestal na zona norte de São Paulo
+            </li>
+            <li>
+                Estudou gastronomia rural nas margens do rio tietê
+            </li>
+            <li>
+                Espanhol fluente (nativo)
+            </li>
+            <li>
+                Fez curso técnico em pedicure e mannicura na cidade del México aiaiai arriba!
+            </li>
+        </ul>
+        </h2>
+    </div>
+
+    <div style= "float: right; position: relative; bottom: 155px; margin-right: 150px;">
+        <video src = "Vídeo do Mar.mp4" width="270" height="150" controls></video>
+    </div>
+
+    <div>
+        <div style="font-size: 30px; margin-left: 125px;"> Experiências</div>
+        <ul style="font-size: 20px; margin-left: 125px;">
+            <li>
+                Trabalhou mordendo os pé das crianças no horto
+            </li>
+            <li>
+                Fez transporte de andorinha nas costas no rio
+            </li>
+            <li>
+                Especialista em comer grama
+            </li>
+            <li>
+                Trabalhou por anos em arrecadação de carrapatos
+            </li>
+        </ul>
+    </div>
+
+    <div>
+        <div style="font-size: 30px; margin-left: 125px;"> Informações adicionais </div>
+        <div style="font-size: 20px; margin-left: 140px; margin-right: 500px; text-align: justify;"> <p> André gosta muita de dar voltar no lago em que mora, tem o hábito 
+        de tirar cochilos à tarde. Apesar do que as pessoas pensam, ele é uma capirava muito limpinha e não coleciona mais 
+        carrapatos, segundo ele, este vício é um grande problema para a sociedade capivaral. </p></div>
+
+        <div style="position: relative; float: right; margin-right: 150px; bottom: 170px;">
+            <img
+            src = "https://midias.correiobraziliense.com.br/_midias/jpg/2022/01/03/675x450/1_03012022mf54-7283079.jpg?20220103174148?20220103174148" 
+            width="270" height="150" alt="erro2" />
+            <div style="font-size: 15px; position: relative;"> André e 6 de seus 15 filhos</div>
+        </div>
+    </div>
+</main>
+
+<footer style="background-color:rgba(29, 139, 139, 0.781); height: 200px;" >
+    
+    <div>
+        <div style="font-size: 15px; margin-left: 125px;"> <br> <br>Localizado em horto florestal ZN/SP <br> Trabalha na institução daumamamada
+        <br> Email de contato: andreramirezcapivarinha@capimail.com.mex <br> Telefone de contato: (55) 45678514666</div>
+
+        <br>
+
+        <a href="https://www.facebook.com/capivarabar/"> 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqHstaRVBjUuANdmK_AbR2De0R1-9qQXED4nhyw_UIOyOqPEdd7tnmBU1DB_qkMu6730&usqp=CAU" 
+            alt="erro" style="height: 30px; width: 30px; margin-left: 125px;">
+        </a>
+
+        <a href="https://www.instagram.com/capivarasregistradas/"> 
+            <img src="data:image/jpeg;base64,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"
+            alt="erro" style="height: 30px; width: 30px; margin-left: 25px;">
+        </a>
+
+        <a href="https://twitter.com/Capivarinhas1"> 
+            <img src="data:image/png;base64,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" 
+            alt="erro" style="height: 30px; width: 30px; margin-left: 25px;">
+        </a>
+    </div>
+
+    <div style="position: relative; margin-left: 300px; bottom: 40px;" >
+        <audio controls src="Som do Mar.mp3"></audio>
+    </div>
+
+    <div style="position: relative; margin-left: 870px; bottom: 180px">
+        <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3920.122732514811!2d-122.0841715847813!3d37.42204177981408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085807d593e4e25%3A0xb417bf7a2189e084!2sGolden+Gate+Bridge!5e0!3m2!1sen!2sus!4v1558869865433!5m2!1sen!2sus"
+    width="280"
+    height="150"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen=""
+></iframe>
+    </div>
+
+</footer>
+</body>
